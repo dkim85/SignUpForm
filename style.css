@@ -37,5 +37,10 @@ body {
      font-family: "Roboto", sans-serif;
      text-transform: uppercase;
      outline: 0;
-     background: 
+     background: #4CAF50;
+     width: 100%;
+     border: 0;
+     padding: 15px;
+     color: #ffffff;
+     font-size: 14px;
 }
